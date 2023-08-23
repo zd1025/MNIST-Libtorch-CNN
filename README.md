@@ -1,5 +1,5 @@
-# MNIST-Pytorch-CNN
-手写识别MNIST（Pytorch + CNN实现）
+# MNIST-Libtorch-CNN
+手写识别MNIST（Libtorch + CNN实现）
 
 [TOC]
 
